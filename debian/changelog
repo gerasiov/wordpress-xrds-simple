@@ -1,0 +1,5 @@
+wordpress-xrds-simple (1.0-1) unstable; urgency=low
+
+  * Initial release. (Closes: #563606)
+
+ -- Alexander GQ Gerasiov <gq@debian.org>  Mon, 04 Jan 2010 04:26:02 +0300

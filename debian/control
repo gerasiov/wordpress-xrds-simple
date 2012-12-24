@@ -1,0 +1,18 @@
+Source: wordpress-xrds-simple
+Section: php
+Priority: optional
+Maintainer: Alexander GQ Gerasiov <gq@debian.org>
+Build-Depends: debhelper (>= 6.0.7), cdbs
+Standards-Version: 3.8.3
+Homepage: http://wordpress.org/extend/plugins/xrds-simple/
+Vcs-Git: git://git.gq.net.ru/wordpress-xrds-simple.git
+Vcs-Browser: http://git.gq.net.ru/?p=wordpress-xrds-simple.git
+
+Package: wordpress-xrds-simple
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, wordpress
+Description: XRDS-Simple plugin for WordPress
+ XRDS-Simple is a profile of XRDS, a service discovery protocol which used in
+ the OpenID authentication specification as well as OAuth. This plugin provides
+ a generic framework to allow other plugins to contribute their own service
+ endpoints to be included in the XRDS service document for the domain.
