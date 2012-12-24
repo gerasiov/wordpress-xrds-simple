@@ -1,4 +1,4 @@
 #!/usr/bin/make -f
 include /usr/share/cdbs/1/rules/debhelper.mk
 
-DEB_DH_INSTALL_ARGS := xrds-simple.php usr/share/wordpress/wp-content/plugins/xrds-simple
+DEB_DH_INSTALL_ARGS_DEFAULT := xrds-simple.php usr/share/wordpress/wp-content/plugins/xrds-simple
