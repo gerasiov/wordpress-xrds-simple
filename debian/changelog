@@ -1,3 +1,12 @@
+wordpress-xrds-simple (1.1-1) unstable; urgency=low
+
+  * New upstream release.
+  * 01_version.patch: Fix upstream version numbering.
+  * Bump Standard's version: no changes needed.
+  * debian/rules: Update to the latest cdbs.
+
+ -- Alexander GQ Gerasiov <gq@debian.org>  Mon, 24 Dec 2012 16:44:58 +0400
+
 wordpress-xrds-simple (1.0-1) unstable; urgency=low
 
   * Initial release. (Closes: #563606)
