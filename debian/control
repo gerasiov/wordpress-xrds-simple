@@ -3,7 +3,7 @@ Section: php
 Priority: optional
 Maintainer: Alexander GQ Gerasiov <gq@debian.org>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.4
+Standards-Version: 3.9.6
 Homepage: http://wordpress.org/extend/plugins/xrds-simple/
 Vcs-Git: git://git.gq.net.ru/wordpress-xrds-simple.git
 Vcs-Browser: http://git.gq.net.ru/?p=wordpress-xrds-simple.git
