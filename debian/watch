@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/wordpress-xrds-simple-$1\.tar\.gz/ \
+  https://github.com/diso/wordpress-xrds-simple/releases .*/v?(\d\S*)\.tar\.gz
