@@ -1,3 +1,13 @@
+wordpress-xrds-simple (1.2-1) unstable; urgency=medium
+
+  * Remove CDBS dependency and switch to DH 9+.
+  * Remove 01_version.patch: fixed upsteam.
+  * Bump Standard's version, not changes needed.
+  * Add debian/watch.
+  * Update Vcs-* headers.
+
+ -- Alexander GQ Gerasiov <gq@debian.org>  Wed, 26 Aug 2015 17:23:28 +0300
+
 wordpress-xrds-simple (1.1-1) unstable; urgency=low
 
   * New upstream release.
