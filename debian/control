@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Alexander GQ Gerasiov <gq@debian.org>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
-Homepage: http://wordpress.org/extend/plugins/xrds-simple/
+Homepage: https://wordpress.org/extend/plugins/xrds-simple/
 Vcs-Git: https://github.com/gerasiov/wordpress-xrds-simple.git
 Vcs-Browser: https://github.com/gerasiov/wordpress-xrds-simple
 
